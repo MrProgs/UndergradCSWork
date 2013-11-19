@@ -1,0 +1,14 @@
+Selection Sort: The PosListSelectionSorter class's sort() methods are to be based upon this algorithm:
+
+current_cursor = front of list;
+// loop invariant:
+//   The nodes in the portion of the list preceding current_cursor
+//   are in ascending order and have values <= all the nodes that follow
+
+while (current position is not the rear) {
+   find the node between current_cursor and the rear having min value;
+   
+   swap contents of that node with the node at current_cursor;
+   
+   advance current_cursor to next position;
+} 
