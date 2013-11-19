@@ -1,0 +1,21 @@
+The jar file was authored by Dr. Jack Beidler of the University of Scranton.
+
+BoundStack: A basic implementation of a bound stack, or simply a stack.
+
+Leaves and Internal Nodes: Given a binary tree, this program counts the number of leaves and internal nodes of the given
+tree.
+
+Logical Sort: A program to sort integers in ascending order.
+
+Morse Coder: Decodes Morse code messages by utilizing a binary tree structure. The program is given a text file of morse
+code, represented by '.', '-', and '/' where '/' is meant to delimit the letters of the message. The program is also
+given a text file with the alphabetical characters and their corresponding morse code codewords. This file is used to 
+create the binary tree.
+
+NSidedDie: A program that simulated an N-sided die that can be either a fair die or a 'loaded' die of n sides.
+
+QueueViaArrayList: An implementation of a queue by utilizing an arraylist.
+
+Recursion: A program that does multiplication recusively.
+
+SimpleRE: This program implements regualr expressions to extract student information from the given StudentData.txt file.
